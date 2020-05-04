@@ -4,7 +4,7 @@
 #
 
 FROM tomcat:alpine
-MAINTAINER Jaya Prasad Rao (prasad@reldyn.co)
+MAINTAINER Reldyn Tech Sdn Bhd (hello@reldyn.co)
 ADD target/demo-webapp.war /usr/local/tomcat/webapps/
 EXPOSE 8080
 ENV CATALINA_HOME /usr/local/tomcat/

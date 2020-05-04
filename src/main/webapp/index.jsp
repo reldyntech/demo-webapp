@@ -27,7 +27,7 @@
     <img src="images/tomcat.png">
 </p>
 
-<h1>Welcome to Alibaba Cloud TechMeet 2020</h1>
+<h1>Welcome to Alibaba Cloud TechMeet-2020</h1>
 <br/>
 <div class="text">
     <%
